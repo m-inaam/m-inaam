@@ -3,7 +3,7 @@
 <h3 align="center">A Machine Learning Engineer from Pakistan</h3>
 
 <!-- Social Media Badges -->
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/therealinaam" target="blank">
     <img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
