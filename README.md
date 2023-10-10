@@ -8,15 +8,11 @@
   <a href="https://twitter.com/therealinaam" target="blank">
     <img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-</p>
-<!-- LinkedIn -->
-<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-inaamullah" target="blank">
     <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
-
-
+ 
 <!-- Introduction -->
 <p align="left">
   🌱 I’m currently learning <strong>SQL</strong><br>
