@@ -3,7 +3,7 @@
 <h3 align="center">A Machine Learning Engineer from Pakistan</h3>
 
 <!-- Social Media Badges -->
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/therealinaam" target="blank">
     <img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -17,7 +17,7 @@
 </p>
 
 <!-- Connect with Me -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/therealinaam" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -28,7 +28,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -51,6 +51,6 @@
 </p>
 
 <!-- Random GIF -->
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Random GIF" />
 </p>
