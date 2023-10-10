@@ -10,7 +10,7 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">
+<p align="left">
   🌱 I’m currently learning <strong>SQL</strong><br>
   💬 Ask me about <strong>Python, R, PHP</strong><br>
   📫 How to reach me: <strong>inaam@reeflify.co</strong>
@@ -18,7 +18,7 @@
 
 <!-- Connect with Me -->
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/therealinaam" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -29,7 +29,7 @@
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -37,16 +37,16 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-inaam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=m-inaam&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-inaam&" alt="GitHub Streak Stats" />
 </p>
 
