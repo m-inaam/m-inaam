@@ -17,7 +17,9 @@
   <a href="https://www.linkedin.com/in/muhammad-inaamullah" target="blank">
     <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
+  
 </p>
+
 </h3>
  
 <!-- Introduction -->
