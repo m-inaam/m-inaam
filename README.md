@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/therealinaam" target="blank"><img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="therealinaam" /></a> </p>
 
-- 🌱 I’m currently learning **Matlab,**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Python, R, PHP**
 
-- 📫 How to reach me **muhammadinaamullah2000@gmail.com**
+- 📫 How to reach me **inaam@reeflify.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
