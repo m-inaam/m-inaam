@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there! 👋 I'm Muhammad Inaamullah</h1>
-<h3 align="center">A Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A Machine Learning and Electrical Engineer from Pakistan</h3>
 
 <!-- Social Media Badges -->
 <p align="center">
