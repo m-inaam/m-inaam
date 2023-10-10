@@ -2,10 +2,6 @@
 <h3 align="center">A Machine Learning Engineer from Pakistan</h3>
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repository-name)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-inaam" alt="m-inaam" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/therealinaam" target="blank"><img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="therealinaam" /></a> </p>
 
 - 🌱 I’m currently learning **SQL**
