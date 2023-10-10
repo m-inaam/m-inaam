@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inaamullah</h1>
 <h3 align="center">A Machine Learning Engineer from Pakistan</h3>
 
-/// # My GitHub Profile
-
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repository-name)
 
 
