@@ -10,7 +10,7 @@
   
   <!-- Twitter -->
   <a href="https://twitter.com/therealinaam" target="blank">
-    <img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   
   <!-- LinkedIn -->
