@@ -5,7 +5,7 @@
 <!-- Social Media Badges -->
 <!-- Twitter -->
 <!-- Connect with Me -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:
 <p align="center">
   <a href="https://twitter.com/therealinaam" target="blank">
     <img src="https://img.shields.io/twitter/follow/therealinaam?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
+</h3>
  
 <!-- Introduction -->
 <p align="left">
