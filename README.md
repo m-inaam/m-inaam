@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inaamullah</h1>
 <h3 align="center">A Machine Learning Engineer from Pakistan</h3>
 
-/// <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-inaam&label=Profile%20views&color=0e75b6&style=flat" alt="m-inaam" /> </p>
+/// # My GitHub Profile
+
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repository-name)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-inaam" alt="m-inaam" /></a> </p>
 
