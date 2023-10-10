@@ -23,6 +23,7 @@
 </h3>
  
 <!-- Introduction -->
+<h3 align="left">Current life update</h3>
 <p align="left">
   🌱 I’m currently learning <strong>SQL</strong><br>
   💬 Ask me about <strong>Python, R, PHP</strong><br>
